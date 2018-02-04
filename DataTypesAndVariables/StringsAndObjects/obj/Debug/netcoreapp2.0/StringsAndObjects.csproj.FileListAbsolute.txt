@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\bin\Debug\netcoreapp2.0\StringsAndObjects.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\StringsAndObjects\obj\Debug\netcoreapp2.0\StringsAndObjects.pdb
