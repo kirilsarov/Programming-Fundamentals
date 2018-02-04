@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.deps.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.runtimeconfig.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.runtimeconfig.dev.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\bin\Debug\netcoreapp2.0\RestaurantDiscount.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.AssemblyInfo.cs
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\RestaurantDiscount\obj\Debug\netcoreapp2.0\RestaurantDiscount.pdb
