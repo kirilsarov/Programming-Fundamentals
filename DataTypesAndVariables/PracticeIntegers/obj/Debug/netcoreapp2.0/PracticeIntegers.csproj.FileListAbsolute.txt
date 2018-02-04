@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\bin\Debug\netcoreapp2.0\PracticeIntegers.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\bin\Debug\netcoreapp2.0\PracticeIntegers.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\bin\Debug\netcoreapp2.0\PracticeIntegers.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\bin\Debug\netcoreapp2.0\PracticeIntegers.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\bin\Debug\netcoreapp2.0\PracticeIntegers.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeIntegers\obj\Debug\netcoreapp2.0\PracticeIntegers.pdb
