@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.deps.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.runtimeconfig.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.runtimeconfig.dev.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp2.0\TriangleOfNumbers.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.AssemblyInfo.cs
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp2.0\TriangleOfNumbers.pdb
