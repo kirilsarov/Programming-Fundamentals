@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\bin\Debug\netcoreapp2.0\DifferentNumbers.deps.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\bin\Debug\netcoreapp2.0\DifferentNumbers.runtimeconfig.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\bin\Debug\netcoreapp2.0\DifferentNumbers.runtimeconfig.dev.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\bin\Debug\netcoreapp2.0\DifferentNumbers.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\bin\Debug\netcoreapp2.0\DifferentNumbers.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.AssemblyInfo.cs
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\DifferentNumbers\obj\Debug\netcoreapp2.0\DifferentNumbers.csprojResolveAssemblyReference.cache
