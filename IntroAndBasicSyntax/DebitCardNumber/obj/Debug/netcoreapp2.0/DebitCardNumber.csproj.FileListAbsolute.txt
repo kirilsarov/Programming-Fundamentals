@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.deps.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.runtimeconfig.dev.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp2.0\DebitCardNumber.pdb
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.AssemblyInfo.cs
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp2.0\DebitCardNumber.pdb

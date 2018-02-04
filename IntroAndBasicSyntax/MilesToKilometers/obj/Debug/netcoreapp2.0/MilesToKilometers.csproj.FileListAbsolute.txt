@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\bin\Debug\netcoreapp2.0\MilesToKilometers.deps.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\bin\Debug\netcoreapp2.0\MilesToKilometers.runtimeconfig.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\bin\Debug\netcoreapp2.0\MilesToKilometers.runtimeconfig.dev.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\bin\Debug\netcoreapp2.0\MilesToKilometers.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\bin\Debug\netcoreapp2.0\MilesToKilometers.pdb
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\obj\Debug\netcoreapp2.0\MilesToKilometers.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\obj\Debug\netcoreapp2.0\MilesToKilometers.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\obj\Debug\netcoreapp2.0\MilesToKilometers.AssemblyInfo.cs
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\obj\Debug\netcoreapp2.0\MilesToKilometers.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\MilesToKilometers\obj\Debug\netcoreapp2.0\MilesToKilometers.pdb

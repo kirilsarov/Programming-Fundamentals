@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\bin\Debug\netcoreapp2.0\CharacterStats.deps.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\bin\Debug\netcoreapp2.0\CharacterStats.runtimeconfig.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\bin\Debug\netcoreapp2.0\CharacterStats.runtimeconfig.dev.json
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\bin\Debug\netcoreapp2.0\CharacterStats.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\bin\Debug\netcoreapp2.0\CharacterStats.pdb
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.AssemblyInfo.cs
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.dll
+C:\VisualStudioProjects\IntroAndBasicSyntax\CharacterStats\obj\Debug\netcoreapp2.0\CharacterStats.pdb
