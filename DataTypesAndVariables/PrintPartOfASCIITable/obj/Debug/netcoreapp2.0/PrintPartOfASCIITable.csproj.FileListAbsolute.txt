@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\PrintPartOfASCIITable.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\PrintPartOfASCIITable.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\PrintPartOfASCIITable.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\PrintPartOfASCIITable.pdb
