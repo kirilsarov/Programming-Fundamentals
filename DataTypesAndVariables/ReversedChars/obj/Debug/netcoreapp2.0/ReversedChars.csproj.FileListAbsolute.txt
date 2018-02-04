@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp2.0\ReversedChars.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp2.0\ReversedChars.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp2.0\ReversedChars.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp2.0\ReversedChars.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp2.0\ReversedChars.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp2.0\ReversedChars.pdb
