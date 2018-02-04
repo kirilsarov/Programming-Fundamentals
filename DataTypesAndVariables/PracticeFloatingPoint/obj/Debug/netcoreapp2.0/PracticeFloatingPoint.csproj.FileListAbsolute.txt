@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\bin\Debug\netcoreapp2.0\PracticeFloatingPoint.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\bin\Debug\netcoreapp2.0\PracticeFloatingPoint.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\bin\Debug\netcoreapp2.0\PracticeFloatingPoint.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\bin\Debug\netcoreapp2.0\PracticeFloatingPoint.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\bin\Debug\netcoreapp2.0\PracticeFloatingPoint.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\obj\Debug\netcoreapp2.0\PracticeFloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\obj\Debug\netcoreapp2.0\PracticeFloatingPoint.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\obj\Debug\netcoreapp2.0\PracticeFloatingPoint.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\obj\Debug\netcoreapp2.0\PracticeFloatingPoint.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeFloatingPoint\obj\Debug\netcoreapp2.0\PracticeFloatingPoint.pdb
