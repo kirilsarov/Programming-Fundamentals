@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\bin\Debug\netcoreapp2.0\Hotel.deps.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.dev.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\bin\Debug\netcoreapp2.0\Hotel.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\bin\Debug\netcoreapp2.0\Hotel.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfo.cs
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\Hotel\obj\Debug\netcoreapp2.0\Hotel.csprojResolveAssemblyReference.cache
