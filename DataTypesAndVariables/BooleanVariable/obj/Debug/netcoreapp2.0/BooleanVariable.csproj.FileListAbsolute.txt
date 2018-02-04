@@ -1,0 +1,11 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\bin\Debug\netcoreapp2.0\BooleanVariable.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\BooleanVariable\obj\Debug\netcoreapp2.0\BooleanVariable.pdb
