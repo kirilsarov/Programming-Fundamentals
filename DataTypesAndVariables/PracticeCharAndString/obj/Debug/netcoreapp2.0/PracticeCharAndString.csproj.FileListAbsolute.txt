@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\bin\Debug\netcoreapp2.0\PracticeCharAndString.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\bin\Debug\netcoreapp2.0\PracticeCharAndString.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\bin\Debug\netcoreapp2.0\PracticeCharAndString.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\bin\Debug\netcoreapp2.0\PracticeCharAndString.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\bin\Debug\netcoreapp2.0\PracticeCharAndString.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\obj\Debug\netcoreapp2.0\PracticeCharAndString.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\obj\Debug\netcoreapp2.0\PracticeCharAndString.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\obj\Debug\netcoreapp2.0\PracticeCharAndString.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\obj\Debug\netcoreapp2.0\PracticeCharAndString.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\PracticeCharAndString\obj\Debug\netcoreapp2.0\PracticeCharAndString.pdb
