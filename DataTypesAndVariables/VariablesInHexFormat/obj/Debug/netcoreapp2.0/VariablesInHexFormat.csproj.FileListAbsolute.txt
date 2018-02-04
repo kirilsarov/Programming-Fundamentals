@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\bin\Debug\netcoreapp2.0\VariablesInHexFormat.deps.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\bin\Debug\netcoreapp2.0\VariablesInHexFormat.runtimeconfig.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\bin\Debug\netcoreapp2.0\VariablesInHexFormat.runtimeconfig.dev.json
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\bin\Debug\netcoreapp2.0\VariablesInHexFormat.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\bin\Debug\netcoreapp2.0\VariablesInHexFormat.pdb
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\obj\Debug\netcoreapp2.0\VariablesInHexFormat.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\obj\Debug\netcoreapp2.0\VariablesInHexFormat.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\obj\Debug\netcoreapp2.0\VariablesInHexFormat.AssemblyInfo.cs
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\obj\Debug\netcoreapp2.0\VariablesInHexFormat.dll
+C:\Users\kiril\source\repos\DataTypesAndVariables\VariablesInHexFormat\obj\Debug\netcoreapp2.0\VariablesInHexFormat.pdb
