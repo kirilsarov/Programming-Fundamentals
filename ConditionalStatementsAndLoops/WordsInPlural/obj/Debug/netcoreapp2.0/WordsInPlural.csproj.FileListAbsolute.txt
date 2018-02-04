@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\bin\Debug\netcoreapp2.0\WordsInPlural.deps.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\bin\Debug\netcoreapp2.0\WordsInPlural.runtimeconfig.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\bin\Debug\netcoreapp2.0\WordsInPlural.runtimeconfig.dev.json
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\bin\Debug\netcoreapp2.0\WordsInPlural.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\bin\Debug\netcoreapp2.0\WordsInPlural.pdb
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.AssemblyInfo.cs
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.dll
+C:\VisualStudioProjects\ConditionalStatementsAndLoops\WordsInPlural\obj\Debug\netcoreapp2.0\WordsInPlural.pdb
